@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TheCuriousFox/static/css/main.0230cad8.chunk.css",
+    "main.js": "/TheCuriousFox/static/js/main.34237cdf.chunk.js",
+    "main.js.map": "/TheCuriousFox/static/js/main.34237cdf.chunk.js.map",
+    "runtime-main.js": "/TheCuriousFox/static/js/runtime-main.86405969.js",
+    "runtime-main.js.map": "/TheCuriousFox/static/js/runtime-main.86405969.js.map",
+    "static/js/2.abf297cb.chunk.js": "/TheCuriousFox/static/js/2.abf297cb.chunk.js",
+    "static/js/2.abf297cb.chunk.js.map": "/TheCuriousFox/static/js/2.abf297cb.chunk.js.map",
+    "static/js/3.175c868f.chunk.js": "/TheCuriousFox/static/js/3.175c868f.chunk.js",
+    "static/js/3.175c868f.chunk.js.map": "/TheCuriousFox/static/js/3.175c868f.chunk.js.map",
+    "index.html": "/TheCuriousFox/index.html",
+    "static/css/main.0230cad8.chunk.css.map": "/TheCuriousFox/static/css/main.0230cad8.chunk.css.map",
+    "static/js/2.abf297cb.chunk.js.LICENSE.txt": "/TheCuriousFox/static/js/2.abf297cb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TheCuriousFox/static/media/orange-square.a8ce227e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86405969.js",
+    "static/js/2.abf297cb.chunk.js",
+    "static/css/main.0230cad8.chunk.css",
+    "static/js/main.34237cdf.chunk.js"
+  ]
+}
