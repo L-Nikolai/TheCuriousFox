@@ -8,7 +8,7 @@ import {
 } from "../icons";
 
 const Info = () => (
-  <div className="w-screen bg-fox px-s2 pb-s3 sm:p-s3 opacity-80 text-white">
+  <div className="w-screen bg-orange px-s2 pb-s3 sm:p-s3  text-white">
     <div className="sm:flex sm:justify-around">
       <Fox className="hidden sm:block sm:w-s20 sm:h-s20 sm:mr-s1" />
       <div className="flex flex-col items-center sm:items-end sm:justify-between">

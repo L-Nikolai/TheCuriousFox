@@ -1,7 +1,7 @@
 import { InstagramIcon, LocationIcon, MailIcon, PhoneIcon } from "../icons";
 
 const Contacts = () => (
-  <div className="pt-s1 pb-s3 px-s2 bg-fox opacity-80 text-white">
+  <div className="pt-s1 pb-s3 px-s2 bg-orange  text-white">
     <div className="title text-shadow  pb-s1 sm:text-infoD sm:text-center">
       Контакты
     </div>
