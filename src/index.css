@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Nunito";
+    src: url(./fonts/Nunito-Regular.ttf) format("opentype");
+    font-weight: normal;
+  }
+
+  @font-face {
+    font-family: "Nunito";
+    src: url(./fonts/Nunito-SemiBold.ttf) format("opentype");
+    font-weight: medium;
+  }
+
+  @font-face {
+    font-family: "Nunito";
+    src: url(./fonts/Nunito-Bold.ttf) format("opentype");
+    font-weight: bold;
+  }
+
+  h1 {
+    @apply text-info font-bold;
+  }
+
+  .title {
+    @apply text-info font-bold;
+  }
+
+  .square-orange::before {
+    content: url("./icons/orange-square.svg");
+    padding: 0 0.5rem 0 0.5rem;
+  }
+
+  .square-blue::after {
+    content: url("./icons/blue-square.svg");
+    padding: 0 0.5rem 0 0.5rem;
+  }
+
+  .text-shadow {
+    text-shadow: 0px 1px 2px rgb(30 29 39 / 19%),
+      1px 2px 4px rgb(54 64 147 / 18%);
+  }
+
+  .flag {
+    @apply rounded-flag shadow-lg mb-s05 sm:w-s11 sm:h-s7 sm:rounded-flagD sm:duration-200 sm:mb-s1;
+  }
+
+  .flag:hover {
+    transform: translateY(-0.5rem);
+  }
+
+  .footer {
+    @apply flex m-s03 items-center hover:text-blue;
+  }
+}
