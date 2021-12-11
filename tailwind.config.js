@@ -7,10 +7,13 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: ["Nanito", ...defaultTheme.fontFamily.sans],
+        plume: ["Plume"],
+        lemon: ["Lemon"],
       },
       backgroundImage: {
         mary: "url('./photos/Mary.png')",
         yly: "url('./photos/Yly.png')",
+        angelina: "url(./photos/Angelina.png)",
       },
     },
     fontSize: {

@@ -21,11 +21,11 @@ const Info = () => (
         </a>
         <Fox className="pt-s1 sm:hidden" />
         <div>
-          <div className="title mt-s2 text-center  sm:text-titleD sm:mt-none sm:text-right">
+          <div className="title-info mt-s2 text-center  sm:text-titleD sm:mt-none sm:text-right">
             The Curious Fox
           </div>
-          <div className=" text-center text-base font-medium  sm:text-infoD sm:text-right">
-            это современный центр дополнительного образования.
+          <div className="title-bottom text-center text-base font-medium  sm:text-infoD sm:text-right">
+            это современный центр дополнительного образования
           </div>
         </div>
       </div>

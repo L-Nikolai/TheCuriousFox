@@ -20,6 +20,16 @@
     src: url(./fonts/Nunito-Bold.ttf) format("opentype");
     font-weight: bold;
   }
+  @font-face {
+    font-family: "Plume";
+    src: url(./fonts/Plume-Free-Brush-Font.otf) format("opentype");
+    font-weight: bold;
+  }
+  @font-face {
+    font-family: "Lemon";
+    src: url(./fonts/Lemon-Tuesday.otf) format("opentype");
+    font-weight: bold;
+  }
 
   h1 {
     @apply text-info font-bold;
@@ -27,6 +37,14 @@
 
   .title {
     @apply text-info font-bold;
+  }
+
+  .title-info {
+    @apply text-info font-bold font-plume;
+  }
+
+  .title-bottom {
+    @apply text-info font-bold font-lemon;
   }
 
   .square-orange::before {
