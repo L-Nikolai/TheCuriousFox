@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/TheCuriousFox/static/css/main.b9b197c1.chunk.css",
-    "main.js": "/TheCuriousFox/static/js/main.60f2d11f.chunk.js",
-    "main.js.map": "/TheCuriousFox/static/js/main.60f2d11f.chunk.js.map",
+    "main.css": "/TheCuriousFox/static/css/main.a1f4dfd5.chunk.css",
+    "main.js": "/TheCuriousFox/static/js/main.980fa674.chunk.js",
+    "main.js.map": "/TheCuriousFox/static/js/main.980fa674.chunk.js.map",
     "runtime-main.js": "/TheCuriousFox/static/js/runtime-main.86405969.js",
     "runtime-main.js.map": "/TheCuriousFox/static/js/runtime-main.86405969.js.map",
     "static/js/2.abf297cb.chunk.js": "/TheCuriousFox/static/js/2.abf297cb.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.175c868f.chunk.js": "/TheCuriousFox/static/js/3.175c868f.chunk.js",
     "static/js/3.175c868f.chunk.js.map": "/TheCuriousFox/static/js/3.175c868f.chunk.js.map",
     "index.html": "/TheCuriousFox/index.html",
-    "static/css/main.b9b197c1.chunk.css.map": "/TheCuriousFox/static/css/main.b9b197c1.chunk.css.map",
+    "static/css/main.a1f4dfd5.chunk.css.map": "/TheCuriousFox/static/css/main.a1f4dfd5.chunk.css.map",
     "static/js/2.abf297cb.chunk.js.LICENSE.txt": "/TheCuriousFox/static/js/2.abf297cb.chunk.js.LICENSE.txt",
     "static/media/index.css": "/TheCuriousFox/static/media/orange-square.a8ce227e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.86405969.js",
     "static/js/2.abf297cb.chunk.js",
-    "static/css/main.b9b197c1.chunk.css",
-    "static/js/main.60f2d11f.chunk.js"
+    "static/css/main.a1f4dfd5.chunk.css",
+    "static/js/main.980fa674.chunk.js"
   ]
 }
